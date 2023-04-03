@@ -1,0 +1,21 @@
+Numbers 
+	store numercial information and come in two forms:
+
+		integer   :  whole numbers
+		floating  :  numbers with decimal 
+
+=================================================================
+
+String : Ordered sequance of characters 
+
+===========================================
+Lists :  Ordered sequance of objects (mutable) which mean i can assign value to it 
+
+==========================================
+
+Tuple : ordered sequance of object (immutable) like string
+
+==================================
+Dictionary : Key-Value pairing that is unordered 
+
+=====================

@@ -1,0 +1,17 @@
+Name                  Type 			Description 
+
+Integer		     int                      3  300  200            
+
+float point          float 			2.3  4.6 
+
+string               str                       "hello"  "2000" 
+
+List                 list                     [10,"hello",200.3] 
+
+Dictionary           dict                   {"key" : "value"}
+
+Tuples               tup                      (10,"HI", 200.3)
+
+Set                  set                       {"a", "b"} 
+
+Booleans             bool                      true false 
